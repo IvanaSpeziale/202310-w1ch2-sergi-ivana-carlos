@@ -12,8 +12,6 @@ El objetivo es crear con **HTML** (y nada de CSS) una web con cuatro **páginas*
 
 Todas las páginas deben tener la misma **cabecera**, con los siguientes elementos:
 
-- Nombre de la web
-- **Menú de navegación** con links para ir a las tres secciones
 
 Por lo que se refiere a las diferentes páginas:
 
@@ -25,7 +23,10 @@ Por lo que se refiere a las diferentes páginas:
   - el nombre y
   - alguna información.
 
+
 - La sección **Nuestros CV** debe contener vuestros tres CV.
+Nuestros CV** debe contener vuestros tres CV.
+
 
 - La sección **Contacto** debe llevar un **formulario** que pida
   - Nombre
