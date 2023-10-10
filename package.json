@@ -1,0 +1,11 @@
+{
+  "name": "202310-w1ch2-sergi-ivana-carlos",
+  "version": "1.0.0",
+  "description": "Challenge grupal para ejercitar HTML.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
