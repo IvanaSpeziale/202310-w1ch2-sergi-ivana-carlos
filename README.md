@@ -25,7 +25,7 @@ Por lo que se refiere a las diferentes páginas:
   - el nombre y
   - alguna información.
 
-- La sección **Nuestros CV** debe contener vuestros dos CV.
+- La sección **Nuestros CV** debe contener vuestros tres CV.
 
 - La sección **Contacto** debe llevar un **formulario** que pida
   - Nombre
